@@ -1,4 +1,4 @@
-# AWS Summit São Paulo 2022 - 
+# AWS Summit São Paulo 2022
 ## Session ARC201
 
 

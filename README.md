@@ -29,6 +29,7 @@ See more AWS Blog posts [here](https://aws.amazon.com/blogs/)
 
 <br>
 <br>
+<br>
 
 <img align="left" width="150" height="180" src="images/book_release_it.jpg" style="margin:10px 10px 10px 10px">
 

@@ -1,5 +1,5 @@
 # AWS Summit São Paulo 2022
-## Session ARC201
+## Session ARC201 - Resilience Journey on AWS
 
 
 ## Amazon Builders' Library

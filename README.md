@@ -20,9 +20,23 @@ See more AWS Blog posts [here](https://aws.amazon.com/blogs/)
 
 
 ## Books
-* [Architecting for Scale - Lee Atchison](https://www.amazon.com/Architecting-Scale-Maintain-Availability-Manage/dp/1492057177/)
-* [Release It! - Michael T. Nygard](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/)
 
+<img align="left" width="150" height="200" src="images/book_architecting_for_scale.jpg" style="margin:10px 10px 10px 10px">
+
+&nbsp; &nbsp; &nbsp; [Architecting for Scale - Lee Atchison](https://www.amazon.com/Architecting-Scale-Maintain-Availability-Manage/dp/1492057177/)
+
+&nbsp; &nbsp; &nbsp; Every day, companies struggle to scale critical applications. As traffic volume and data demands increase, these applications become more complicated and brittle, exposing risks and compromising availability. With the popularity of software as a service, scaling has never been more important.
+
+<br>
+<br>
+
+<img align="left" width="150" height="180" src="images/book_release_it.jpg" style="margin:10px 10px 10px 10px">
+
+&nbsp; &nbsp; &nbsp; [Release It! - Michael T. Nygard](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/)
+&nbsp; &nbsp; &nbsp; A single dramatic software failure can cost a company millions of dollars - but can be avoided with simple changes to design and architecture. This is a must-have pragmatic guide to engineering for production systems.
+
+<br>
+<br>
 
 
 ## Presentations
@@ -40,5 +54,5 @@ See more AWS Whitepapers [here](https://aws.amazon.com/whitepapers/)
 
 
 ## Workshops & Labs
-* [AWS Well-Architected - Reliability Pillar](https://www.wellarchitectedlabs.com/reliability/)
+* [AWS Well-Architected - Reliability Pillar Labs](https://www.wellarchitectedlabs.com/reliability/)
 * [Disaster Recovery on AWS](https://disaster-recovery.workshop.aws/)

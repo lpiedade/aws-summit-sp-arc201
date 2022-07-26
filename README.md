@@ -21,7 +21,7 @@ See more AWS Blog posts [here](https://aws.amazon.com/blogs/)
 
 ## Books
 
-<img align="left" width="150" height="200" src="images/book_architecting_for_scale.jpg" style="margin:10px 10px 10px 10px">
+<img align="left" width="150" height="200" src="images/book_architecting_for_scale.jpg" style="margin:10px 10px 10px 10px; border: 1px solid black;">
 
 &nbsp; &nbsp; &nbsp; [Architecting for Scale - Lee Atchison](https://www.amazon.com/Architecting-Scale-Maintain-Availability-Manage/dp/1492057177/)
 
@@ -31,7 +31,7 @@ See more AWS Blog posts [here](https://aws.amazon.com/blogs/)
 <br>
 <br>
 
-<img align="left" width="150" height="180" src="images/book_release_it.jpg" style="margin:10px 10px 10px 10px">
+<img align="left" width="150" height="180" src="images/book_release_it.jpg" style="margin:10px 10px 10px 10px; border: 1px solid black;">
 
 &nbsp; &nbsp; &nbsp; [Release It! - Michael T. Nygard](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/)
 
@@ -42,6 +42,8 @@ See more AWS Blog posts [here](https://aws.amazon.com/blogs/)
 <br>
 
 ## Presentations
+* [Amazon's approach to building resilient services](https://www.youtube.com/watch?v=KLxwhsJuZ44)
+* [Amazon's approach to failing successfully](https://www.youtube.com/watch?v=yQiRli2ZPxU)
 * [Amazon's approach to high-availability deployment](https://youtube.com/watch?v=bCgD2bX1LI4)
 * [Beyond five 9s: Lessons from highest available data planes](https://www.youtube.com/watch?v=2L1S0zfnIzo)
 

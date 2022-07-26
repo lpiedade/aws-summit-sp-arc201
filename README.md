@@ -33,11 +33,12 @@ See more AWS Blog posts [here](https://aws.amazon.com/blogs/)
 <img align="left" width="150" height="180" src="images/book_release_it.jpg" style="margin:10px 10px 10px 10px">
 
 &nbsp; &nbsp; &nbsp; [Release It! - Michael T. Nygard](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/)
+
 &nbsp; &nbsp; &nbsp; A single dramatic software failure can cost a company millions of dollars - but can be avoided with simple changes to design and architecture. This is a must-have pragmatic guide to engineering for production systems.
 
 <br>
 <br>
-
+<br>
 
 ## Presentations
 * [Amazon's approach to high-availability deployment](https://youtube.com/watch?v=bCgD2bX1LI4)

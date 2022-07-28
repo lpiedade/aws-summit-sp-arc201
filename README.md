@@ -1,6 +1,12 @@
 # AWS Summit São Paulo 2022
 ## Session ARC201 - Resilience Journey on AWS
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flpiedade%2Faws-summit-sp-arc201&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7)](https://github.com/lpiedade/aws-summit-sp-arc201)
+[![License](https://img.shields.io/github/license/lpiedade/aws-summit-sp-arc201?title_bg=%23555555&icon=&icon_color=%23E7E7E7)](./LICENSE)
+[![aaa](https://img.shields.io/badge/aws-summit%202022-yellow)](https://aws.amazon.com/pt/events/summits/sao-paulo/)
+<a href="https://twitter.com/intent/follow?screen_name=leo_ap">
+    <img src="https://img.shields.io/twitter/follow/leo_ap?style=social&logo=twitter" alt="follow on Twitter"></a>
+
 
 ## Amazon Builders' Library
 * [Implementing health checks](https://aws.amazon.com/builders-library/implementing-health-checks/)

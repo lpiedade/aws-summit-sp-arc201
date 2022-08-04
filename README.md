@@ -8,6 +8,22 @@
     <img src="https://img.shields.io/twitter/follow/leo_ap?style=social&logo=twitter" alt="follow on Twitter"></a>
 
 
+Speakers:
+
+* [David Reis](https://www.linkedin.com/in/davidreisjr)
+* [Jorge Rua](https://www.linkedin.com/in/jorgerua)
+* [Leonardo Piedade](https://www.linkedin.com/in/leoap)
+
+---
+## Simple Checklist for Resilience
+
+1. Define your criteria for tiers
+2. Classify your applications by tiers
+3. Map your application dependencies 
+4. Test for resilience
+
+
+---
 ## Amazon Builders' Library
 * [Implementing health checks](https://aws.amazon.com/builders-library/implementing-health-checks/)
 * [Static stability using Availability Zones](https://aws.amazon.com/builders-library/static-stability-using-availability-zones/)
